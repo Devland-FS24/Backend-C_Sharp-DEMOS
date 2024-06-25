@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\bin\Debug\DEFY_SizeOfNodeLatestChild.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\bin\Debug\DEFY_SizeOfNodeLatestChild.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\bin\Debug\DEFY_SizeOfNodeLatestChild.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\obj\Debug\DEFY_SizeOfNodeLatestChild.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\obj\Debug\DEFY_SizeOfNodeLatestChild.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\obj\Debug\DEFY_SizeOfNodeLatestChild.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\obj\Debug\DEFY_SizeOfNodeLatestChild.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_SizeOfNodeLatestChild\obj\Debug\DEFY_SizeOfNodeLatestChild.pdb

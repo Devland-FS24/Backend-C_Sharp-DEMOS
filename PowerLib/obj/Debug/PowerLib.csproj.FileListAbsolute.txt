@@ -1,0 +1,6 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\PowerLib\bin\Debug\PowerLib.dll
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\PowerLib\bin\Debug\PowerLib.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\PowerLib\obj\Debug\PowerLib.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\PowerLib\obj\Debug\PowerLib.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\PowerLib\obj\Debug\PowerLib.dll
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\PowerLib\obj\Debug\PowerLib.pdb

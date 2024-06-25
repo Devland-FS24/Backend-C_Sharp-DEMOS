@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\bin\Debug\ED2_ClaseAbstracta.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\bin\Debug\ED2_ClaseAbstracta.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\bin\Debug\ED2_ClaseAbstracta.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\obj\Debug\ED2_ClaseAbstracta.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\obj\Debug\ED2_ClaseAbstracta.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\obj\Debug\ED2_ClaseAbstracta.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\obj\Debug\ED2_ClaseAbstracta.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstracta\ED2_ClaseAbstracta\obj\Debug\ED2_ClaseAbstracta.pdb

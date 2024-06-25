@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\bin\Debug\DEFY_IDisposableDoneRight.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\bin\Debug\DEFY_IDisposableDoneRight.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\bin\Debug\DEFY_IDisposableDoneRight.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\obj\Debug\DEFY_IDisposableDoneRight.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\obj\Debug\DEFY_IDisposableDoneRight.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\obj\Debug\DEFY_IDisposableDoneRight.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\obj\Debug\DEFY_IDisposableDoneRight.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_IDisposableDoneRight\obj\Debug\DEFY_IDisposableDoneRight.pdb

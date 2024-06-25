@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\bin\Debug\ED2_AccesoMiembrosHerencia.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\bin\Debug\ED2_AccesoMiembrosHerencia.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\bin\Debug\ED2_AccesoMiembrosHerencia.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\obj\Debug\ED2_AccesoMiembrosHerencia.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\obj\Debug\ED2_AccesoMiembrosHerencia.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\obj\Debug\ED2_AccesoMiembrosHerencia.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\obj\Debug\ED2_AccesoMiembrosHerencia.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_AccesoMiembrosHerencia\ED2_AccesoMiembrosHerencia\obj\Debug\ED2_AccesoMiembrosHerencia.pdb

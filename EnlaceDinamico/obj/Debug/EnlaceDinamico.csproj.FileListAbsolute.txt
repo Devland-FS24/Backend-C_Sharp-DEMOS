@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\bin\Debug\EnlaceDinamico.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\bin\Debug\EnlaceDinamico.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\bin\Debug\EnlaceDinamico.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\obj\Debug\EnlaceDinamico.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\obj\Debug\EnlaceDinamico.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\obj\Debug\EnlaceDinamico.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\obj\Debug\EnlaceDinamico.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\EnlaceDinamico\obj\Debug\EnlaceDinamico.pdb

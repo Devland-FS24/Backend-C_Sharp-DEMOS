@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\bin\Debug\ED2_HerenciaInterface.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\bin\Debug\ED2_HerenciaInterface.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\bin\Debug\ED2_HerenciaInterface.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\obj\Debug\ED2_HerenciaInterface.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\obj\Debug\ED2_HerenciaInterface.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\obj\Debug\ED2_HerenciaInterface.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\obj\Debug\ED2_HerenciaInterface.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_HerenciaInterface\ED2_HerenciaInterface\obj\Debug\ED2_HerenciaInterface.pdb

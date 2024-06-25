@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\bin\Debug\ED2_ClaseAbstractaFiguras.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\bin\Debug\ED2_ClaseAbstractaFiguras.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\bin\Debug\ED2_ClaseAbstractaFiguras.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\obj\Debug\ED2_ClaseAbstractaFiguras.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\obj\Debug\ED2_ClaseAbstractaFiguras.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\obj\Debug\ED2_ClaseAbstractaFiguras.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\obj\Debug\ED2_ClaseAbstractaFiguras.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseAbstractaFiguras\ED2_ClaseAbstractaFiguras\obj\Debug\ED2_ClaseAbstractaFiguras.pdb

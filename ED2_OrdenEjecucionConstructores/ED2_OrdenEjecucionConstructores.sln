@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED2_OrdenEjecucionConstructores", "ED2_OrdenEjecucionConstructores\ED2_OrdenEjecucionConstructores.csproj", "{A2BCADCC-E92E-4842-8476-2A4BB7906912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BCADCC-E92E-4842-8476-2A4BB7906912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BCADCC-E92E-4842-8476-2A4BB7906912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BCADCC-E92E-4842-8476-2A4BB7906912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BCADCC-E92E-4842-8476-2A4BB7906912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

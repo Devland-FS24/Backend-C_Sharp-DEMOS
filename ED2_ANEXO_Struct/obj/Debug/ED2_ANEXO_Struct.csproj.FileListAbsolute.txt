@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\bin\Debug\ED2_ANEXO_Struct.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\bin\Debug\ED2_ANEXO_Struct.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\bin\Debug\ED2_ANEXO_Struct.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\obj\Debug\ED2_ANEXO_Struct.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\obj\Debug\ED2_ANEXO_Struct.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\obj\Debug\ED2_ANEXO_Struct.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\obj\Debug\ED2_ANEXO_Struct.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ANEXO_Struct\obj\Debug\ED2_ANEXO_Struct.pdb

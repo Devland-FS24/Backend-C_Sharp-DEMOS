@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\bin\Debug\ED2_ClaseSellada.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\bin\Debug\ED2_ClaseSellada.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\bin\Debug\ED2_ClaseSellada.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\obj\Debug\ED2_ClaseSellada.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\obj\Debug\ED2_ClaseSellada.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\obj\Debug\ED2_ClaseSellada.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\obj\Debug\ED2_ClaseSellada.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ClaseSellada\ED2_ClaseSellada\obj\Debug\ED2_ClaseSellada.pdb

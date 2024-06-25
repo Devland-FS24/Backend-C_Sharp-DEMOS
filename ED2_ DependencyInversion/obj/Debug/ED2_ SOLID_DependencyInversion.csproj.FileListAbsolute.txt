@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\bin\Debug\ED2_ DependencyInversion.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\bin\Debug\ED2_ DependencyInversion.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\bin\Debug\ED2_ DependencyInversion.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\obj\Debug\ED2_ SOLID_DependencyInversion.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\obj\Debug\ED2_ SOLID_DependencyInversion.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\obj\Debug\ED2_ SOLID_DependencyInversion.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\obj\Debug\ED2_ DependencyInversion.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_ DependencyInversion\obj\Debug\ED2_ DependencyInversion.pdb

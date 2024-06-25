@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\bin\Debug\ED2_SEALED_READONLY.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\bin\Debug\ED2_SEALED_READONLY.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\bin\Debug\ED2_SEALED_READONLY.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\obj\Debug\ED2_MetodoSellado.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\obj\Debug\ED2_MetodoSellado.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\obj\Debug\ED2_MetodoSellado.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\obj\Debug\ED2_SEALED_READONLY.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\ED2_SEALED_READONLY\ED2_SEALED_READONLY\obj\Debug\ED2_SEALED_READONLY.pdb

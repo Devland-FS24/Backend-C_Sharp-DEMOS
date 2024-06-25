@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TurnoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Orden">
+    <Key>
+      <PropertyRef Name="idOrden" />
+    </Key>
+    <Property Name="idOrden" Type="Int32" Nullable="false" />
+    <Property Name="idPaciente" Type="Int32" />
+    <NavigationProperty Name="Paciente" Relationship="Self.FK_Orden_Paciente" FromRole="Orden" ToRole="Paciente" />
+    <NavigationProperty Name="Turnoes" Relationship="Self.FK_Turno_Orden" FromRole="Orden" ToRole="Turno" />
+  </EntityType>
+  <EntityType Name="Paciente">
+    <Key>
+      <PropertyRef Name="idPaciente" />
+    </Key>
+    <Property Name="idPaciente" Type="Int32" Nullable="false" />
+    <Property Name="Edad" Type="Int32" />
+    <NavigationProperty Name="Ordens" Relationship="Self.FK_Orden_Paciente" FromRole="Paciente" ToRole="Orden" />
+  </EntityType>
+  <EntityType Name="Turno">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="FechaDesde" Type="DateTime" Precision="3" />
+    <Property Name="FechaHasta" Type="DateTime" Precision="3" />
+    <Property Name="idOrden" Type="Int32" />
+    <NavigationProperty Name="Orden" Relationship="Self.FK_Turno_Orden" FromRole="Turno" ToRole="Orden" />
+  </EntityType>
+  <Association Name="FK_Orden_Paciente">
+    <End Role="Paciente" Type="Self.Paciente" Multiplicity="0..1" />
+    <End Role="Orden" Type="Self.Orden" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Paciente">
+        <PropertyRef Name="idPaciente" />
+      </Principal>
+      <Dependent Role="Orden">
+        <PropertyRef Name="idPaciente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Turno_Orden">
+    <End Role="Orden" Type="Self.Orden" Multiplicity="0..1" />
+    <End Role="Turno" Type="Self.Turno" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orden">
+        <PropertyRef Name="idOrden" />
+      </Principal>
+      <Dependent Role="Turno">
+        <PropertyRef Name="idOrden" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TEST1Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ordens" EntityType="Self.Orden" />
+    <EntitySet Name="Pacientes" EntityType="Self.Paciente" />
+    <EntitySet Name="Turnoes" EntityType="Self.Turno" />
+    <AssociationSet Name="FK_Orden_Paciente" Association="Self.FK_Orden_Paciente">
+      <End Role="Paciente" EntitySet="Pacientes" />
+      <End Role="Orden" EntitySet="Ordens" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Turno_Orden" Association="Self.FK_Turno_Orden">
+      <End Role="Orden" EntitySet="Ordens" />
+      <End Role="Turno" EntitySet="Turnoes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

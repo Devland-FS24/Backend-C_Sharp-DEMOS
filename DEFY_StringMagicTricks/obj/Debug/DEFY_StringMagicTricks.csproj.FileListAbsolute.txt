@@ -1,0 +1,8 @@
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\bin\Debug\DEFY_StringMagicTricks.exe.config
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\bin\Debug\DEFY_StringMagicTricks.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\bin\Debug\DEFY_StringMagicTricks.pdb
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\obj\Debug\DEFY_StringMagicTricks.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\obj\Debug\DEFY_StringMagicTricks.csproj.SuggestedBindingRedirects.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\obj\Debug\DEFY_StringMagicTricks.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\obj\Debug\DEFY_StringMagicTricks.exe
+F:\Ready to use\GITHUB\ENG\Dynamic Binding with C_Sharp\DEFY_StringMagicTricks\obj\Debug\DEFY_StringMagicTricks.pdb
